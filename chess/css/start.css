@@ -1,0 +1,36 @@
+table {
+    font-size: 25px;
+    font-weight: bolder;
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    border-collapse: collapse;
+    color: white;
+    border-radius: 100px;
+    background-color: #eeca28;
+}
+
+tr {
+    text-align: center;
+}
+
+tr, td, button, input {
+    border: 2px solid white;
+}
+
+input, button {
+    font-size: 15px;
+    font-weight: bolder;
+    color: white;
+    outline: none;
+    background-color: #ee8528;
+}
+
+button {
+    border-radius: 15px;
+}
+
+p {
+    font-size: 15px;
+    color: red;
+}

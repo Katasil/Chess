@@ -1,0 +1,31 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xml-body>
+    <s>
+        <l>g1 g3 g5 g7 g9</l>
+        <d>d1 d3 d5 d7 d9</d>
+    </s>
+    <c>
+        <l>h2 h8</l>
+        <d>c2 c8</d>
+    </c>
+    <r>
+        <l>j1 j9</l>
+        <d>a1 a9</d>
+    </r>
+    <h>
+        <l>j2 j8</l>
+        <d>a2 a8</d>
+    </h>
+    <e>
+        <l>j3 j7</l>
+        <d>a3 a7</d>
+    </e>
+    <a>
+        <l>j4 j6</l>
+        <d>a4 a6</d>
+    </a>
+    <g>
+        <l>j5</l>
+        <d>a5</d>
+    </g>
+</xml-body>
